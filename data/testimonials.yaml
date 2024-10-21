@@ -1,49 +1,52 @@
 testimonials:
   - avatar: /images/admin/avatar1.png
-    name: Rio
+    name: Wawan
     message: >-
-      Jasa borong.bangunan.co memenuhi harapan dalam renovasi rumah saya.
-      Pekerjaan selesai tepat waktu dan hasilnya memuaskan.
-    response: Kami sangat menghargai kepercayaan Anda. Senang Anda puas dengan hasilnya!
+      Saya menggunakan jasa borong.bangunan.co untuk renovasi rumah saya, dan
+      hasilnya sangat memuaskan. Proyek selesai tepat waktu dan mutu
+      pekerjaannya luar biasa.
+    response: >-
+      Terima kasih atas kepercayaannya! Kami senang dapat memberikan hasil yang
+      memuaskan untuk renovasi rumah Anda.
     rating: 4
   - avatar: /images/admin/avatar2.png
-    name: Nur
+    name: Dewi
     message: >-
-      Borong.bangunan.co memberikan layanan profesional dalam pembangunan ruko
-      saya, dengan hasil akhir yang hebat.
+      Tim borong.bangunan.co berpengalaman dalam membangun ruko saya. Proses
+      pengerjaan efisien dan hasil akhirnya sesuai dengan yang saya harapkan.
     response: >-
       Kami sangat menghargai ulasannya. Senang mendengar bahwa Anda puas dengan
-      konstruksi ruko kami.
+      pembangunan ruko kami.
     rating: 4
   - avatar: /images/admin/avatar3.png
-    name: Rizal
+    name: Deni
     message: >-
       Pengerjaan kantor saya oleh borong.bangunan.co bersih dan berkualitas.
       Layanan mereka sangat cepat dan tanggap terhadap kebutuhan saya.
     response: >-
-      Terima kasih! Kami berkomitmen memberikan kualitas maksimal untuk proyek
-      kantor Anda.
+      Kami senang dapat mendukung proyek Anda dengan layanan berkualitas. Terima
+      kasih atas kepercayaannya!
     rating: 5
   - avatar: /images/admin/avatar4.png
-    name: Ari
+    name: Gilang
     message: >-
-      Layanan borongan bangunan dari borong.bangunan.co sangat memuaskan, dengan
-      hasil yang hebat sesuai desain yang diinginkan.
+      Layanan borongan bangunan dari borong.bangunan.co memenuhi harapan, dengan
+      hasil yang luar biasa sesuai desain yang diinginkan.
     response: >-
-      Kami sangat menghargai kepercayaan Anda. Terima kasih telah mempercayakan
-      proyek rumah Anda kepada kami!
+      Senang mendengar rumah Anda sesuai dengan harapan. Terima kasih atas
+      kepercayaannya dalam menggunakan layanan kami!
     rating: 4
   - avatar: /images/admin/avatar5.png
-    name: Siti
+    name: Lina
     message: >-
-      Pelayanan yang diberikan oleh borong.bangunan.co sangat memuaskan. Mereka
-      memberikan solusi yang tepat untuk proyek bangunan kantor saya.
+      Pelayanan yang diberikan oleh borong.bangunan.co hebat. Mereka memberikan
+      solusi yang tepat untuk proyek bangunan kantor saya.
     response: >-
-      Terima kasih! Kami senang dapat membantu mewujudkan proyek bangunan kantor
-      Anda dengan solusi terbaik.
+      Kami sangat menghargai ulasan Anda. Terima kasih telah memilih layanan
+      kami!
     rating: 4
   - avatar: /images/admin/avatar6.png
-    name: Toni
+    name: Rio
     message: >-
       Proyek renovasi interior rumah saya berjalan lancar berkat
       borong.bangunan.co. Hasilnya sangat elegan dan sesuai dengan keinginan
