@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Kartini Jakarta [Borongan]"
-date: "2024-05-21"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Kartini Jakarta [Borongan]. Jika anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Kartini Jakarta [Borongan], ruko ataupun..."
+title: 'Jasa Bangun Rumah di Kartini Jakarta [Borongan]'
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Kartini Jakarta [Borongan]. Jika anda ada sedang mencari
+  pemborong untuk Jasa Bangun Rumah di Kartini Jakarta [Borongan], ruko
+  ataupun...
 ---
 
 **Jasa Bangun Rumah di Kartini Jakarta \[Borongan\]** – Sudah bukan rahasia umum lagi bahwasanya rumah yakni salah satu dari kebutuhan utama manusia yang mana setiap manusia yang hidup di dunia ini pasti memerlukan rumah tinggal. Terutama rumah tinggal yg bagus yang awet dengan tampilan dan desain seperti yang diinginkan.

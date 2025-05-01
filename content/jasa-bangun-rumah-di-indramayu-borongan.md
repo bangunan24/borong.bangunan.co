@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Indramayu [Borongan]"
-date: "2024-05-16"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Indramayu [Borongan]. Sekiranya anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Indramayu [Borongan], ruko ataupun sekola..."
+title: 'Jasa Bangun Rumah di Indramayu [Borongan]'
+date: '2025-05-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Indramayu [Borongan]. Sekiranya anda ada sedang mencari
+  pemborong untuk Jasa Bangun Rumah di Indramayu [Borongan], ruko ataupun
+  sekola...
 ---
 
 **Jasa Bangun Rumah di Indramayu \[Borongan\]** – Sudah bukan rahasia lagi bahwasanya rumah adalah salah satu dari keperluan pokok manusia yang mana tiap manusia yang hidup di dunia ini pasti memerlukan tempat tinggal. Lebih-lebih tempat tinggal yang bagus yg awet dengan model dan design seperti yang diinginkan.
