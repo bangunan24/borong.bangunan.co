@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Jatiluhur Purwakarta [Borongan]"
-date: "2024-06-15"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Jatiluhur Purwakarta [Borongan]. Jikalau anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Jatiluhur Purwakarta [Borongan],..."
+title: 'Jasa Bangun Rumah di Jatiluhur Purwakarta [Borongan]'
+date: '2025-06-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Jatiluhur Purwakarta [Borongan]. Jikalau anda ada sedang
+  mencari pemborong untuk Jasa Bangun Rumah di Jatiluhur Purwakarta
+  [Borongan],...
 ---
 
 **Jasa Bangun Rumah di Jatiluhur Purwakarta \[Borongan\]** – Bukan rahasia lagi bahwasanya rumah yaitu salah satu dari keperluan utama manusia yg mana tiap manusia yg hidup di dunia ini pasti membutuhkan tempat tinggal. Terlebih rumah tinggal yang bagus yg kokoh dengan tampilan dan desain seperti yg diinginkan.
