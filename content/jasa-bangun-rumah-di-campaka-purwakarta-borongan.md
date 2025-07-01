@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Campaka Purwakarta [Borongan]"
-date: "2024-07-15"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Campaka Purwakarta [Borongan]. Sekiranya anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Campaka Purwakarta [Borongan], r..."
+title: 'Jasa Bangun Rumah di Campaka Purwakarta [Borongan]'
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Campaka Purwakarta [Borongan]. Sekiranya anda ada sedang
+  mencari pemborong untuk Jasa Bangun Rumah di Campaka Purwakarta [Borongan],
+  r...
 ---
 
 **Jasa Bangun Rumah di Campaka Purwakarta \[Borongan\]** – Sudah bukan rahasia umum lagi bahwasanya rumah adalah salah satu dari kebutuhan utama manusia yg mana setiap manusia yang hidup di dunia ini pasti memerlukan tempat tinggal. Khususnya rumah tinggal yang baik yg awet dengan bentuk dan desain seperti yg diharapkan.

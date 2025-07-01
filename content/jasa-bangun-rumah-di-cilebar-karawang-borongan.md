@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Cilebar Karawang [Borongan]"
-date: "2024-07-30"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Cilebar Karawang [Borongan]. Kalau anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Cilebar Karawang [Borongan], ruko atau..."
+title: 'Jasa Bangun Rumah di Cilebar Karawang [Borongan]'
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Cilebar Karawang [Borongan]. Kalau anda ada sedang
+  mencari pemborong untuk Jasa Bangun Rumah di Cilebar Karawang [Borongan], ruko
+  atau...
 ---
 
 **Jasa Bangun Rumah di Cilebar Karawang \[Borongan\]** – Sudah bukan rahasia lagi bahwasanya rumah yakni salah satu dari kebutuhan pokok manusia yang mana tiap-tiap manusia yang hidup di dunia ini pasti memerlukan tempat tinggal. Terlebih rumah tinggal yg baik yg kokoh dengan tampilan dan desain seperti yang diharapkan.

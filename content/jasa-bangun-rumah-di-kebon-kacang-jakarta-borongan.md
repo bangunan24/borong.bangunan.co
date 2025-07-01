@@ -1,9 +1,12 @@
 ---
-title: "Jasa Bangun Rumah di Kebon Kacang Jakarta [Borongan]"
-date: "2024-07-11"
-categories: 
-  - "biaya"
-description: "Jasa Bangun Rumah di Kebon Kacang Jakarta [Borongan]. Seandainya anda ada sedang mencari pemborong untuk Jasa Bangun Rumah di Kebon Kacang Jakarta [Borongan..."
+title: 'Jasa Bangun Rumah di Kebon Kacang Jakarta [Borongan]'
+date: '2025-07-01'
+categories:
+  - biaya
+description: >-
+  Jasa Bangun Rumah di Kebon Kacang Jakarta [Borongan]. Seandainya anda ada
+  sedang mencari pemborong untuk Jasa Bangun Rumah di Kebon Kacang Jakarta
+  [Borongan...
 ---
 
 **Jasa Bangun Rumah di Kebon Kacang Jakarta \[Borongan\]** – Bukan rahasia umum lagi bahwasanya rumah yaitu salah satu dari kebutuhan utama manusia yg mana setiap manusia yg hidup di dunia ini pasti membutuhkan tempat tinggal. Khususnya tempat tinggal yg bagus yg kokoh dengan model dan desain seperti yg diinginkan.
