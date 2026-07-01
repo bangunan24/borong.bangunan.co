@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Bangun Rumah di Kebon Pedes Bogor [Borongan]'
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - biaya
 description: >-

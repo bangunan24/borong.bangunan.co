@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Bangun Rumah di Pademangan Jakarta [Harian/Borongan]'
-date: '2025-07-01'
+date: '2026-07-01'
 categories:
   - biaya
 description: >-
