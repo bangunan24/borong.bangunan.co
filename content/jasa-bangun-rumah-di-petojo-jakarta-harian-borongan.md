@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Bangun Rumah di Petojo Jakarta [Harian/Borongan]'
-date: '2025-08-01'
+date: '2026-08-01'
 categories:
   - biaya
 description: >-
