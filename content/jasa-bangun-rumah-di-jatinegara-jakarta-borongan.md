@@ -1,6 +1,6 @@
 ---
 title: 'Jasa Bangun Rumah di Jatinegara Jakarta [Borongan]'
-date: '2025-09-01'
+date: '2026-09-01'
 categories:
   - biaya
 description: >-
